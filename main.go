@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"github.com/sanderjn1/fib.git/fib"
+)
 
 func main() {
 	n := 10
